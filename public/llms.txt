@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+יורם אורזך מציע ייעוץ מקצועי בתחום אבטחת סייבר ורשתות מידע. פתרונות מותאמים אישית לעסקים שמחפשים הגנה אמיתית. צור קשר עוד היום וקבל הגנה מקצועית.
+
+### שירותים
+https://example.com/services
+גלה את מגוון שירותי ייעוץ אבטחת הסייבר והנדסת הרשתות של יורם אורזך. מהגנה מפני איומים ועד תכנון תשתיות — כל פתרון מותאם בדיוק לצרכי העסק שלך.
+
+### אודות
+https://example.com/about
+יורם אורזך הוא מהנדס ויועץ בכיר עם ניסיון עשיר בתחום אבטחת הסייבר ורשתות המידע. גלה מה מייחד אותו ולמה ארגונים מובילים בוחרים בו כשותף אסטרטגי לאבטחה.
+
+### צור קשר
+https://example.com/contact
+מוכן לקחת את אבטחת הרשת שלך לשלב הבא? צור קשר עם יורם אורזך עוד היום לייעוץ ראשוני ללא התחייבות ותקבל מענה מקצועי ומהיר מהמומחה עצמו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
